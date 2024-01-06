@@ -3,7 +3,7 @@
 """
 Created on Sat Jan  6 18:29:45 2024
 
-@author: yagizcanurkmez
+@author: yagizcanurkmezz
 """
 
 import netCDF4 as nc
