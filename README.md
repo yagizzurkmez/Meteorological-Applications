@@ -1,5 +1,3 @@
-In this repository there will be a codes for Meteorology
+This repository contains codes and tools designed for data analysis and exploration in the field of Meteorology.
 
-For example reading and visualizing meteorological data which usually is netcdf file
 
-And some useful visualizing codes like taylor diagram which is used by evaluating performance of models
